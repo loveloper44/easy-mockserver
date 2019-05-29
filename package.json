@@ -1,0 +1,16 @@
+{
+  "name": "easy-mockserver",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "http": "0.0.0",
+    "mockserver-node": "^5.5.2"
+  }
+}
